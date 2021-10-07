@@ -11,7 +11,7 @@ Since 2015, I'm living Programming and Application Development. I'd love to cust
 
 - 📫 Feel free to reach **mehradeeeepak@gmail.com**
 
-- ⚡ Outside Work: **I make music**
+- ⚡ Outside Work: **I create music**
 
 ## 🚀 Languages and Tools:
 
