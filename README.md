@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="/Untitled%20design.gif" height="150px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak Mehra</h1>
-<h3 align="center">I'm a passionate Applicaiton Developer from India.</h3>
+<h3 align="center">I'm a passionate Application Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
