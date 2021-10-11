@@ -67,4 +67,5 @@ Since 2015, I'm living Programming and Application Development. I'd love to cust
 <a href="https://github.com/codeSoko/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=codeSoko">
 </a>
-<a href="https://github.com/codeSoko?tab=followers"><img src="https://img.shields.io/github/followers/codeSoko?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/codeSoko?tab=followers"><img src="https://img.shields.io/github/followers/codeSoko?label=Followers&style=social" alt="GitHub Badge"></a><br>
+<h6>Github is really hot😉</h6>
