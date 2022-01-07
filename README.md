@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="/Untitled%20design.gif" height="150px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak Mehra</h1>
-<h4 align="center">A {CoolnCalm} Full Stack Developer from India. Well all developers are cool except the Team-Leads😛</h4>
+<h4 align="center">Full Stack Developer from India�</h4>
 
 ## 🙋‍♂️ About Me
 Since 2015, I'm living Programming and Application Development. I'd love to customize applications to see my own version of it, it is zestful though. 
