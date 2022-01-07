@@ -6,8 +6,8 @@
 ## 🙋‍♂️ About Me
 Since 2015, I'm living Programming and Application Development. I'd love to customize applications to see my own version of it, it is zestful though. 
 
-👨‍💻 Go through **[My Portfolio]()**
-📫 Reach me **mehradeeeepak@gmail.com**
+👨‍💻 Go through **[My Portfolio]()**<br>
+📫 Reach me **mehradeeeepak@gmail.com**<br>
 🎵 Outside Work **I create music**
 
 ## 🚀 Languages and Tools:
