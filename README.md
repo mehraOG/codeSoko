@@ -1,16 +1,16 @@
 <a href="#"><img width="100%" height="auto" src="/Untitled%20design.gif" height="150px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak Mehra</h1>
-<h4 align="center">Full Stack Developer from India�</h4>
+<h4 align="center">Full Stack Developer from India</h4>
 
 ## 🙋‍♂️ About Me
 Since 2015, I'm living Programming and Application Development. I'd love to customize applications to see my own version of it, it is zestful though. 
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+👨‍💻 All of my projects are available at **[My Portfolio]()**
 
-- 📫 Feel free to reach **mehradeeeepak@gmail.com**
+📫 Feel free to reach **mehradeeeepak@gmail.com**
 
-- ⚡ Outside Work: **I create music**
+⚡ Outside Work: **I create music**
 
 ## 🚀 Languages and Tools:
 
